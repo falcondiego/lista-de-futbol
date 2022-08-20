@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 ,espn premium
+https://ed44.zorrohd2.nl/live/flowitc8ws5.m3u8
+
+#EXTINF:-1 ,TNT SPORT
+https://ed11.zorrohd2.nl/live/flowitck24y.m3u8
+
+#EXTINF:-1 ,FOX SPORT
+https://ed33.zorrohd2.nl/live/flowitcj1qx.m3u8
+
+#EXTINF:-1 ,FOX SPORT 2
+https://ed11.zorrohd2.nl/live/flowitcj6no.m3u8
+
+#EXTINF:-1 ,FOX SPORT 3
+https://ed11.zorrohd2.nl/live/STe3e78f647ed3276.m3u8
+
+#EXTINF:-1 ,DIRECTV SPORT
+https://ed11.zorrohd2.nl/live/flowitc91zh.m3u8
+
+#EXTINF:-1 ,DIRECTV SPORT 2
+https://ed11.zorrohd2.nl/live/flowitc94l9.m3u8
+
+#EXTINF:-1 ,DIRECTV+
+https://ed55.zorrohd2.nl/live/flowitc96js.m3u8
+
+#EXTINF:-1 ,TUND
+https://ed22.zorrohd2.nl/live/ST3a8e423f934572e.m3u8
+
+#EXTINF:-1 ,BEIN SPORT 1
+https://ed55.zorrohd2.nl/live/STcb59d87c7a6baae.m3u8
+
+#EXTINF:-1 ,BEIN SPORT 2
+https://ed44.zorrohd2.nl/live/ST09b6d8542956273.m3u8
+
+#EXTINF:-1 ,BEIN SPORT 3
+https://ed44.zorrohd2.nl/live/STea0a10b25764209.m3u8
